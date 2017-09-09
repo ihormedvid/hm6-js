@@ -1,0 +1,10 @@
+body {
+  background: url(http://cs.pikabu.ru/images/big_size_comm/2013-08_2/1376053312391.jpg) no-repeat;
+  background-size: 100%;
+}
+
+h2 ,div {
+  text-align: center;
+  font-style: oblique;
+  color: red;
+}
