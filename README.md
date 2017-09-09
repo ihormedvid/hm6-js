@@ -1,2 +1,3 @@
 # hm6-js
-http://ihormedvid.github.io/hm6-js/index.html
+hm
+http://ihormedvid.github.io/hm6-js
